@@ -2,7 +2,7 @@
 
   
   ## Description
-  Social media application for updates on new things in the tech world
+  Social media application for updates on new things in the tech world. Used JS, HTML, CSS languages
   
   ## Table of Contents
   
